@@ -45,7 +45,7 @@ const devFran = {
 
 ## 💻 Tech Stack
 
-### 🧩 Languages & Frameworks
+### 🧩 Languages 
 
 <div align="center">
 
