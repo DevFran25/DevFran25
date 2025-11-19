@@ -98,17 +98,6 @@ const devFran = {
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevFran25&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0047AB&line=0052CC&point=FFFFFF)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
