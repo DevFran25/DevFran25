@@ -26,7 +26,7 @@
 ```javascript
 const devFran = {
     location: "Peru 🇵🇪",
-    role: "Full Stack Developer",
+    role: "Backend Developer",
     code: ["PHP", "JavaScript", "Java", "Python"],
     technologies: {
         backend: ["Node.js", "Express", "Laravel"],
