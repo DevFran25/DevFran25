@@ -87,17 +87,7 @@ const devFran = {
 
 </div>
 
----
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFran25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0047AB&text_color=C9D1D9)
-
-</div>
-
----
 ## 📫 Let's Connect
 
 <div align="center">
